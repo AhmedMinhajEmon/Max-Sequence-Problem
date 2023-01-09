@@ -1,0 +1,2 @@
+C:\raef\School\WSU\CS_II\Lab\MaxSeqProblem\Debug\MaxSeqProblem.exe
+C:\Users\minha\OneDrive - Wayne State University\CSC-2200\Lab_2_MaxSeqProblem\Debug\MaxSeqProblem.exe

@@ -1,0 +1,6 @@
+﻿  MaxSeqProblem.cpp
+C:\Users\minha\OneDrive - Wayne State University\CSC-2200\Lab_2_MaxSeqProblem\MaxSeqProblem.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\minha\OneDrive - Wayne State University\CSC-2200\Lab_2_MaxSeqProblem\MaxSeqProblem.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\minha\OneDrive - Wayne State University\CSC-2200\Lab_2_MaxSeqProblem\MaxSeqProblem.cpp(55,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\minha\OneDrive - Wayne State University\CSC-2200\Lab_2_MaxSeqProblem\MaxSeqProblem.cpp(60,27): warning C4018: '<': signed/unsigned mismatch
+  MaxSeqProblem.vcxproj -> C:\Users\minha\OneDrive - Wayne State University\CSC-2200\Lab_2_MaxSeqProblem\Debug\MaxSeqProblem.exe
